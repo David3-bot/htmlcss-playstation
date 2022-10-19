@@ -2,3 +2,10 @@
     background-color: black;
 }
 
+li {
+    list-style: none;
+}
+
+.my-top-menu-dx {
+    margin-left: 0;
+}
