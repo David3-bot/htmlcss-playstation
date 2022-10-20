@@ -10,6 +10,11 @@ li {
     margin-left: 0;
 }
 
+#wp {
+    position: sticky;
+    top: 0;
+}
+
 .jumbotron {
     background-image: url(../img/jumbo-bg.png) ;
     padding-top: 300px;
@@ -28,4 +33,5 @@ li {
 .logo-sony {
     height: 10px;
 }
+
 
