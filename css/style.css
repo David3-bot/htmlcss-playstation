@@ -52,3 +52,8 @@ li {
 .bg-gray {
     background-color: #b7b3b2;
 }
+
+.bg-blue {
+    background-color: #161c3b;
+    color: white;
+}
