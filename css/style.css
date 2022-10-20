@@ -44,3 +44,7 @@ li {
     color: white;
     background-size: cover;
 }
+
+.my-cards {
+    border-color: none;
+}
