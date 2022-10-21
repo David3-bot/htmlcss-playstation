@@ -74,3 +74,11 @@ header {
 .expl {
     color: lightskyblue;
 }
+
+.chevron {
+    height: 10px;
+}
+
+.lens {
+    width: 30px;
+}
