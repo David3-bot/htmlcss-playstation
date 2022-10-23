@@ -32,17 +32,14 @@ header {
     margin-top: 80px;
 }
 
-.hmbrg {
-    color: black;
-    height: 30px;
-    background-color: black;
-}
 
 .logo-sony {
     height: 10px;
 }
 
-
+.img-fluid.rounded:hover {
+    box-shadow: 0px 0px 20px 10px #00439c;
+}
 
 .jumbotron-2 {
     background-image: url(../img/it-takes-two-hero-banner-desktop.jpg) ;
@@ -55,8 +52,8 @@ header {
     background-size: cover;
 }
 
-.my-cards {
-    border-color: none;
+.card {
+    border: none;
 }
 
 .bg-gray {
